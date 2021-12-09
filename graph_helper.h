@@ -1,0 +1,1 @@
+int read_file(char* infile,char*tfile, char *ffile, char *pfile);
